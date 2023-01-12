@@ -1,7 +1,4 @@
-<p align="center">
-  <a href="https://github.com/Salaheldinaz" class="rich-diff-level-one">
-    <img src="https://github-readme-stats.vercel.app/api?username=Salaheldinaz&show_icons=true&theme=dracula&count_private=true" alt="Salaheldinaz's Stats" >
-  </a>
+
 
 ## 🔎
   
